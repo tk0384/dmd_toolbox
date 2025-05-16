@@ -1,1 +1,1 @@
-Simple image processor compatible with multiple formats including WEBP
+Efficiency tools, more to be added later.
